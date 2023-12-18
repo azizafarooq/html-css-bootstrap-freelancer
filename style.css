@@ -1,19 +1,12 @@
-.header-top{
+.header-top,
+.section-avatar{
     border: 1px dashed red;
 }
 
-
-/**Media mobile-s*/
-@media all and (min-width: 576px){
-    
+.section-avatar img{
+    max-width: 15rem ;
 }
 
-
-/**Media tablet-md*/
-@media all and (min-width: 768px){
-    
-
-   
-
+.container .col-12{
+    border: 1px dashed red;
 }
-
